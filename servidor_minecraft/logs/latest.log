@@ -1,66 +1,33 @@
-[15:09:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:09:36] [ServerMain/INFO]: Loaded 1290 recipes
-[15:09:36] [ServerMain/INFO]: Loaded 1399 advancements
-[15:09:36] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[15:09:36] [Server thread/INFO]: Loading properties
-[15:09:36] [Server thread/INFO]: Default game type: SURVIVAL
-[15:09:36] [Server thread/INFO]: Generating keypair
-[15:09:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:09:37] [Server thread/INFO]: Using epoll channel type
-[15:09:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:09:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:09:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:09:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:09:37] [Server thread/INFO]: Preparing level "world"
-[15:09:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:09:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:09:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:09:42] [Server thread/INFO]: Time elapsed: 699 ms
-[15:09:42] [Server thread/INFO]: Done (5.154s)! For help, type "help"
-[15:09:48] [Server thread/INFO]: BromuroDeCalcio[/127.6.219.207:38569] logged in with entity id 238 at (-15.767168308693018, 74.0, -2260.5400280140725)
-[15:09:48] [Server thread/INFO]: BromuroDeCalcio joined the game
-[15:09:56] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:36549] logged in with entity id 577 at (201.3283150668497, 68.0, -2024.358779000884)
-[15:09:56] [Server thread/INFO]: Tigre_Severo joined the game
-[15:10:00] [Server thread/INFO]: [Not Secure] <BromuroDeCalcio> te amo mi vida
-[15:10:49] [Server thread/INFO]: BromuroDeCalcio lost connection: Disconnected
-[15:10:49] [Server thread/INFO]: BromuroDeCalcio left the game
-[15:10:53] [Server thread/INFO]: [Not Secure] <Tigre_Severo> yo tambien te amo
-[15:10:53] [Server thread/INFO]: BromuroDeCalcio[/127.6.219.207:36907] logged in with entity id 2272 at (-15.46878540545095, 74.0, -2255.399900252765)
-[15:10:53] [Server thread/INFO]: BromuroDeCalcio joined the game
-[15:51:49] [Server thread/INFO]: JULENGC1101[/127.214.151.105:45181] logged in with entity id 40154 at (33.91440327335537, 72.0, -2185.43633488385)
-[15:51:49] [Server thread/INFO]: JULENGC1101 joined the game
-[15:57:20] [Server thread/INFO]: JULENGC1101 has reached the goal [Postmortal]
-[15:57:28] [Server thread/INFO]: JULENGC1101 drowned
-[16:05:38] [Server thread/INFO]: JULENGC1101 lost connection: Disconnected
-[16:05:38] [Server thread/INFO]: JULENGC1101 left the game
-[16:05:40] [Server thread/INFO]: BromuroDeCalcio lost connection: Disconnected
-[16:05:40] [Server thread/INFO]: BromuroDeCalcio left the game
-[16:05:48] [Server thread/INFO]: BromuroDeCalcio[/127.6.219.207:38411] logged in with entity id 53540 at (28.88623962799714, 29.0, -2336.3587030956055)
-[16:05:48] [Server thread/INFO]: BromuroDeCalcio joined the game
-[16:06:28] [Server thread/INFO]: JULENGC1101[/127.214.151.105:59113] logged in with entity id 54420 at (208.92419638273378, 69.9375, -2025.612404122262)
-[16:06:28] [Server thread/INFO]: JULENGC1101 joined the game
-[16:24:37] [Server thread/INFO]: Tigre_Severo has made the advancement [Under Lock and Key]
-[16:30:06] [Server thread/INFO]: JULENGC1101 fell from a high place
-[16:30:15] [Server thread/WARN]: JULENGC1101 moved too quickly! 0.26203441493939295,17.943800526809696,-0.5122306520565871
-[16:30:51] [Server thread/WARN]: JULENGC1101 moved too quickly! 0.5695755045267106,10.0,0.0864671837066453
-[16:30:54] [Server thread/WARN]: JULENGC1101 moved too quickly! 0.7328004596536459,19.31000018119812,0.23158215991065845
-[16:30:54] [Server thread/WARN]: JULENGC1101 moved too quickly! 0.29937057834274583,17.943800526809696,0.05153051828756361
-[16:30:58] [Server thread/WARN]: JULENGC1101 moved too quickly! 0.7349496490164427,19.31000018119812,0.22456798775556308
-[16:30:59] [Server thread/WARN]: JULENGC1101 moved too quickly! 0.3216211744910993,16.604924839450845,0.04702786193956854
-[16:31:07] [Server thread/WARN]: JULENGC1101 moved too quickly! 0.5929894616041338,19.31000018119812,0.48874695407926083
-[16:31:11] [Server thread/WARN]: JULENGC1101 moved too quickly! 0.5444680178527506,16.604924839450845,0.18389750808523786
-[16:31:12] [Server thread/WARN]: JULENGC1101 moved too quickly! 0.7304540856356994,19.31000018119812,0.24668876893792913
-[16:33:15] [Server thread/WARN]: JULENGC1101 moved too quickly! -0.9654751965979642,-11.778670616388595,-0.7936462179859518
-[16:39:20] [Server thread/INFO]: Tigre_Severo has reached the goal [Revaulting]
-[16:42:15] [Server thread/INFO]: Tigre_Severo has made the advancement [Ol' Betsy]
-[16:47:30] [Server thread/INFO]: BromuroDeCalcio has made the advancement [Who is Cutting Onions?]
-[16:50:44] [Server thread/INFO]: BromuroDeCalcio lost connection: Disconnected
-[16:50:44] [Server thread/INFO]: BromuroDeCalcio left the game
-[16:51:10] [Server thread/INFO]: JULENGC1101 lost connection: Disconnected
-[16:51:10] [Server thread/INFO]: JULENGC1101 left the game
-[16:56:11] [Server thread/INFO]: BromuroDeCalcio[/127.6.219.207:45111] logged in with entity id 102377 at (345.1915370587923, -25.0, -2245.878990413929)
-[16:56:11] [Server thread/INFO]: BromuroDeCalcio joined the game
-[16:56:55] [Server thread/INFO]: BromuroDeCalcio lost connection: Disconnected
-[16:56:55] [Server thread/INFO]: BromuroDeCalcio left the game
-[16:57:20] [Server thread/INFO]: BromuroDeCalcio[/127.6.219.207:50453] logged in with entity id 103510 at (350.69999998807907, -30.0, -2217.027695891728)
-[16:57:20] [Server thread/INFO]: BromuroDeCalcio joined the game
+[03:01:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:01:14] [ServerMain/INFO]: Loaded 1290 recipes
+[03:01:15] [ServerMain/INFO]: Loaded 1399 advancements
+[03:01:15] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[03:01:15] [Server thread/INFO]: Loading properties
+[03:01:15] [Server thread/INFO]: Default game type: SURVIVAL
+[03:01:15] [Server thread/INFO]: Generating keypair
+[03:01:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:01:15] [Server thread/INFO]: Using epoll channel type
+[03:01:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:01:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:01:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:01:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:01:15] [Server thread/INFO]: Preparing level "world"
+[03:01:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:01:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:01:18] [Server thread/INFO]: Time elapsed: 482 ms
+[03:01:18] [Server thread/INFO]: Done (2.791s)! For help, type "help"
+[03:02:15] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:47243] logged in with entity id 554 at (216.38700536321937, 75.0, -2007.1945291455527)
+[03:02:15] [Server thread/INFO]: Tigre_Severo joined the game
+[03:03:08] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
+[03:03:08] [Server thread/INFO]: Tigre_Severo left the game
+[03:03:17] [Server thread/INFO]: Stopping the server
+[03:03:17] [Server thread/INFO]: Stopping server
+[03:03:17] [Server thread/INFO]: Saving players
+[03:03:17] [Server thread/INFO]: Saving worlds
+[03:03:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:03:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:03:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:03:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:03:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:03:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:03:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
