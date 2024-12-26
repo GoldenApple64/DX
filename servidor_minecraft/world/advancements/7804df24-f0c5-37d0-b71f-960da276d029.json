@@ -411,9 +411,11 @@
     "criteria": {
       "cooked_porkchop": "2024-12-23 15:04:37 +0000",
       "bread": "2024-12-24 13:34:21 +0000",
+      "golden_apple": "2024-12-26 16:47:14 +0000",
       "cooked_chicken": "2024-12-25 15:13:21 +0000",
       "rotten_flesh": "2024-12-24 15:20:44 +0000",
       "cooked_mutton": "2024-12-24 15:54:40 +0000",
+      "potato": "2024-12-26 16:43:40 +0000",
       "glow_berries": "2024-12-25 16:11:17 +0000",
       "cooked_beef": "2024-12-22 15:36:06 +0000",
       "beef": "2024-12-22 15:31:32 +0000",
@@ -502,13 +504,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-22 15:34:41 +0000",
+      "minecraft:blaze": "2024-12-26 16:07:49 +0000",
       "minecraft:skeleton": "2024-12-23 15:37:46 +0000",
       "minecraft:witch": "2024-12-24 15:57:22 +0000",
+      "minecraft:wither_skeleton": "2024-12-26 16:09:15 +0000",
       "minecraft:ravager": "2024-12-24 15:56:03 +0000",
+      "minecraft:ghast": "2024-12-26 15:55:23 +0000",
+      "minecraft:hoglin": "2024-12-26 16:02:40 +0000",
       "minecraft:cave_spider": "2024-12-25 16:33:19 +0000",
+      "minecraft:piglin": "2024-12-26 15:40:12 +0000",
       "minecraft:vindicator": "2024-12-24 15:55:02 +0000",
       "minecraft:enderman": "2024-12-23 17:47:49 +0000",
       "minecraft:stray": "2024-12-24 12:56:02 +0000",
+      "minecraft:magma_cube": "2024-12-26 16:19:17 +0000",
       "minecraft:spider": "2024-12-23 15:35:09 +0000",
       "minecraft:vex": "2024-12-24 16:10:41 +0000",
       "minecraft:zombie": "2024-12-23 14:32:47 +0000",
@@ -2842,6 +2850,196 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-12-25 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-26 15:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-26 15:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-26 15:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-26 15:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-26 15:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-26 15:41:33 +0000",
+      "minecraft:nether_wastes": "2024-12-26 15:35:33 +0000",
+      "minecraft:soul_sand_valley": "2024-12-26 16:05:43 +0000",
+      "minecraft:basalt_deltas": "2024-12-26 16:05:18 +0000",
+      "minecraft:warped_forest": "2024-12-26 15:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-26 15:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-26 15:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-26 15:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-26 15:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-26 15:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-26 15:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-26 15:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-26 15:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-12-26 15:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/spyglass_at_ghast": {
+    "criteria": {
+      "spyglass_at_ghast": "2024-12-26 15:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-26 15:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-26 16:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-26 16:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-26 16:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-26 16:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-26 16:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-26 16:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-26 16:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2024-12-26 16:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 16:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2024-12-26 16:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-26 16:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-26 16:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2024-12-26 16:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 16:25:12 +0000"
     },
     "done": true
   },
