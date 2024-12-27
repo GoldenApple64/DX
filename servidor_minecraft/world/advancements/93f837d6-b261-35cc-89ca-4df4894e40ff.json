@@ -478,6 +478,7 @@
       "minecraft:vex": "2024-12-24 16:05:55 +0000",
       "minecraft:zombie": "2024-12-23 17:06:35 +0000",
       "minecraft:creeper": "2024-12-23 16:41:20 +0000",
+      "minecraft:zombie_villager": "2024-12-27 14:51:59 +0000",
       "minecraft:ravager": "2024-12-24 16:12:55 +0000"
     },
     "done": false
@@ -2243,6 +2244,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2024-12-27 14:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-27 14:48:15 +0000"
     },
     "done": true
   },
