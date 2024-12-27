@@ -2192,5 +2192,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-12-27 14:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2024-12-27 14:13:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
