@@ -472,15 +472,17 @@
     "criteria": {
       "minecraft:pillager": "2024-12-24 15:54:26 +0000",
       "minecraft:skeleton": "2024-12-23 17:06:00 +0000",
-      "minecraft:vindicator": "2024-12-24 15:57:52 +0000",
-      "minecraft:enderman": "2024-12-27 15:42:44 +0000",
       "minecraft:witch": "2024-12-24 15:59:05 +0000",
+      "minecraft:ravager": "2024-12-24 16:12:55 +0000",
+      "minecraft:ghast": "2024-12-29 15:14:03 +0000",
+      "minecraft:vindicator": "2024-12-24 15:57:52 +0000",
+      "minecraft:breeze": "2024-12-29 15:14:02 +0000",
+      "minecraft:enderman": "2024-12-27 15:42:44 +0000",
       "minecraft:spider": "2024-12-24 15:30:36 +0000",
       "minecraft:vex": "2024-12-24 16:05:55 +0000",
       "minecraft:zombie": "2024-12-23 17:06:35 +0000",
       "minecraft:creeper": "2024-12-23 16:41:20 +0000",
-      "minecraft:zombie_villager": "2024-12-27 14:51:59 +0000",
-      "minecraft:ravager": "2024-12-24 16:12:55 +0000"
+      "minecraft:zombie_villager": "2024-12-27 14:51:59 +0000"
     },
     "done": false
   },
@@ -2326,6 +2328,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2024-12-29 15:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-29 15:01:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2024-12-29 14:58:49 +0000"
@@ -2341,6 +2355,66 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-29 14:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-29 15:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-29 15:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-29 15:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 15:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-29 15:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2024-12-29 15:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-29 15:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-29 15:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2024-12-29 15:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-29 15:06:30 +0000"
     },
     "done": true
   },
