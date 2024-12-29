@@ -3098,9 +3098,9 @@
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "entered_end_gateway": "2024-12-27 16:14:56 +0000"
+      "has_ender_eye": "2024-12-27 15:55:34 +0000"
     },
     "done": true
   },
@@ -3116,9 +3116,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "has_ender_eye": "2024-12-27 15:55:34 +0000"
+      "entered_end": "2024-12-27 16:03:20 +0000"
     },
     "done": true
   },
@@ -3128,9 +3128,45 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "minecraft:end/enter_end_gateway": {
     "criteria": {
-      "entered_end": "2024-12-27 16:03:20 +0000"
+      "entered_end_gateway": "2024-12-27 16:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-29 14:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-12-29 14:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-29 14:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-29 14:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2024-12-29 14:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-29 14:53:43 +0000"
     },
     "done": true
   },
